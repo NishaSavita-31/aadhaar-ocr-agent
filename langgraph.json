@@ -1,7 +1,7 @@
 {
   "dependencies": ["."],
   "graphs": {
-    "aadhaar_agent": "./agent.py:app"
+    "aadhaar_agent": "./agenticworkflow.py:app"
   },
   "env": ".env"
 }
