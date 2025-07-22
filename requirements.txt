@@ -18,3 +18,12 @@ python-json-logger==2.0.7
 
 # Environment management
 python-dotenv==1.0.1
+
+LangGraph Agent Implementations
+
+#Langgraph Langsmith
+Langgraph ==0.5.4
+Langsmith == 0.4.6
+
+#Langchain
+Langchain == 0.3.26
